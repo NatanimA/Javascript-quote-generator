@@ -45,6 +45,28 @@ const quotes = [{
  name:`Will Smith`,
  quoted:`"Money and success don’t change people; they merely amplify what is already there."`,
 },
+
+{
+ name:`Marilyn Monroe`,
+ quoted:`"“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”"`,
+},
+
+{
+ name:` Albert Einstein`,
+ quoted:`"“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”"`,
+},
+
+{
+ name:`Will Smith`,
+ quoted:`"Money and success don’t change people; they merely amplify what is already there."`,
+},
+
+{
+ name:`Frank Zappa`,
+ quoted:`"“So many books, so little time.”"`,
+},
+
+
 ];
 
 btn.addEventListener('click',() => {
